@@ -1,0 +1,164 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+    <title>Ejercicio 1 JavascriptL</title>
+
+    <script type="text/javascript">
+        window.onload = alert('Bienvenido a la página de javascript');
+
+        function exerciciZero() {
+            var text1 = document.getElementById("contenidos_1").innerHTML;
+            alert(text1);
+        }
+        function exerciciUno() {
+            var text1 = document.getElementById("contenidos_1").innerHTML;
+            document.getElementById("contenidos_2").innerHTML = text1;
+        }
+        function exerciciDos() {
+            var text1 = document.getElementById("contenidos_1").innerHTML;
+            var text2 = document.getElementById("contenidos_2").innerHTML;
+            var text3 = document.getElementById("contenidos_3").innerHTML;
+            alert(text1);
+            alert(text2);
+            alert(text3);
+        }
+        function ejercicioDosB() {
+            var parrafos = document.getElementsByTagName('p');
+            for (i = 0; i < parrafos.length; i++) {
+                alert(parrafos[i].innerHTML);
+            }
+
+        }
+        function exerciciTres() {
+            var numero = 0;
+            if (numero == 0) {
+                document.getElementById('ejemplo').innerHTML = 'Texto escrito por Javascript';
+                var numero = 1;
+            }
+            else {
+                document.getElementById('ejemplo').innerHTML = ' ';
+            }
+        }
+        function oculta() {
+            document.getElementById('contenidos_1').innerHTML = "";
+        }
+        function exerciciQuatre() {
+            var dado1 = Math.round(Math.random() * 6, 0);
+            var dado2 = Math.round(Math.random() * 6, 0);
+            alert(dado1 + dado2);
+        }
+        function ejercicio1(imatge) {
+            var altura = imatge.height;
+            var amplada = imatge.width;
+            alert("Altura: " + altura + "px\nAmplada: " + amplada + "px");
+        }
+        function ejercicio2(imatge) {
+            imatge.height=imatge.height/2;
+            imatge.width=imatge.width/2;
+        }
+        function ejercicio3(imatge) {
+            imatge.src="./imatges/simpson.png";
+        }
+        function ejercicio3B(imatge) {
+            imatge.src="./kiwi.png";
+        }
+        function ejercicio4(text) {
+            text.innerHTML='Hola';
+            text.style='color:blue;';
+        }
+        function ejercicio5B() {
+            var Hola = document.getElementById("Execicio5Hola");
+            var p = document.getElementById("Execicio5P");
+            p.innerHTML="Cursor situat Sobre Boto Blau";
+			Hola.innerHTML="Hola";
+			Hola.style.color="#00F";
+
+        }
+        function ejercicio5G() {
+            var hola =document.getElementById('Execicio5Hola');
+            var p = document.getElementById("Execicio5P");
+            p.innerHTML="Cursor situat Sobre Boto Verd";
+            hola.style='color:green;';
+        }
+        function ejercicio5R() {
+            var hola =document.getElementById('Execicio5Hola');
+            var p = document.getElementById("Execicio5P");
+            p.innerHTML="Cursor situat Sobre Boto Vermell";
+            hola.style='color:red;';
+        }
+        function ejercicio5Normal(){
+            var hola =document.getElementById('Execicio5Hola');
+            var p = document.getElementById("Execicio5P");
+            p.innerHTML="Situacio Inicial";
+            hola.style='color:black;';
+        }
+    </script>
+</head>
+
+<body>
+
+    <img src="./imatges/help.jpeg" alt="Ayuda" width="123px" height="164px" id="mifoto" onclick="ejercicio1(this)"><br>
+    
+    <img src="./imatges/simpson.png" alt="Ayuda" width="123px" height="164px" id="mifoto2" onclick="ejercicio2(this)"><br>
+
+    <img src="./imatges/simpsonsad.jpeg" alt="Ayuda" width="123px" height="164px" id="mifoto3" onclick="ejercicio3(this)"; onmouseover="ejercicio3B(this)";><br>
+    <br>
+    <br>
+
+    <button onmouseover="ejercicio5B();" onmouseout="ejercicio5Normal();">blau</button>
+    <button onmouseover="ejercicio5G();" onmouseout="ejercicio5Normal();">verd</button>
+    <button onmouseover="ejercicio5R();" onmouseout="ejercicio5Normal();">vermell</button>
+    <br>
+    <p><b id="Execicio5Hola">Hola</b></p>
+    <p id="Execicio5P">Situacio Inicial</p>
+    <br>
+    <br>
+
+    <p onmouseover="ejercicio4(this)">Adeu</p>
+    <button onclick="exerciciQuatre()"> Dados </button>
+
+    <a href="#" onclick="exerciciTres()">Escribir texto</a><br><br>
+    <div id='ejemplo'></div>
+
+    <p id="contenidos_1">Pff Nene SI Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed mattis enim vitae
+        orci. Phasellus libero. Maecenas nisl arcu, consequat congue, commodo nec, commodo ultricies, turpis. Quisque
+        sapien nunc, posuere vitae, rutrum et, luctus at, pede. Pellentesque massa ante, ornare id, aliquam vitae,
+        ultrices porttitor, pede. Nullam sit amet nisl elementum elit convallis malesuada. Phasellus magna sem, semper
+        quis, faucibus ut, rhoncus non, mi. Duis pellentesque, felis eu adipiscing ullamcorper, odio urna consequat
+        arcu, at posuere ante quam non dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis
+        scelerisque.</p>
+    <a id="enlace_1" href="http://www.google.com" onclick=" oculta()">Ocultar contenidos</a>
+    <button onclick="exerciciZero()"> Si clicas alert p1. </button>
+
+    <br />
+
+    <p id="contenidos_2">AAAAAAALorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed mattis enim vitae orci.
+        Phasellus libero. Maecenas nisl arcu, consequat congue, commodo nec, commodo ultricies, turpis. Quisque sapien
+        nunc, posuere vitae, rutrum et, luctus at, pede. Pellentesque massa ante, ornare id, aliquam vitae, ultrices
+        porttitor, pede. Nullam sit amet nisl elementum elit convallis malesuada. Phasellus magna sem, semper quis,
+        faucibus ut, rhoncus non, mi. Duis pellentesque, felis eu adipiscing ullamcorper, odio urna consequat arcu, at
+        posuere ante quam non dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis scelerisque.</p>
+    <a id="enlace_2" href="#">Ocultar contenidos</a>
+    <button onclick="exerciciUno()"> Si clicas cambias texto p2. </button>
+
+    <br />
+
+    <p id="contenidos_3">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed mattis enim vitae orci. Phasellus
+        libero. Maecenas nisl arcu, consequat congue, commodo nec, commodo ultricies, turpis. Quisque sapien nunc,
+        posuere vitae, rutrum et, luctus at, pede. Pellentesque massa ante, ornare id, aliquam vitae, ultrices
+        porttitor, pede. Nullam sit amet nisl elementum elit convallis malesuada. Phasellus magna sem, semper quis,
+        faucibus ut, rhoncus non, mi. Duis pellentesque, felis eu adipiscing ullamcorper, odio urna consequat arcu, at
+        posuere ante quam non dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis scelerisque.</p>
+    <a id="enlace_3" href="#">Ocultar contenidos</a>
+
+
+    <button onclick="exerciciDos();"> Ejercicio2A </button>
+    <button onclick="exerciciDosB();"> Ejercicio2B </button>
+
+
+</body>
+
+</html>

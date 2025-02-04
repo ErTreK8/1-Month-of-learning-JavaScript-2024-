@@ -1,0 +1,111 @@
+<!DOCTYPE receptes[
+    <!ELEMENT receptes (recepta*)>
+    	<!ELEMENT recepta (nom,categorias,fotos,cost,autor,ingredients,caracteristiques,pasos)>
+    		<!ELEMENT nom (#PCDATA)>
+            <!ELEMENT categorias (categoria*)>
+                <!ELEMENT categoria (#PCDATA)>
+            <!ELEMENT fotos (foto*)>
+                <!ELEMENT foto (#PCDATA)>
+            <!ELEMENT cost (#PCDATA)>
+                <!ATTLIST cost moneda CDATA #REQUIRED>
+            <!ELEMENT autor (nomAutor,email,fotoAutor,linkedin,facebook)>
+                <!ELEMENT nomAutor (#PCDATA)>
+                <!ELEMENT email (#PCDATA)>
+                <!ELEMENT fotoAutor (#PCDATA)>
+                <!ELEMENT linkedin (#PCDATA)>
+                <!ELEMENT facebook (#PCDATA)>
+            <!ELEMENT ingredients (ingrediente*)>
+                <!ELEMENT ingrediente (qtt,nombre)>
+                    <!ELEMENT qtt (#PCDATA)>
+                    <!ELEMENT nombre (#PCDATA)>
+            <!ELEMENT caracteristiques (qttPersones,temps,dificultat,calorias)>
+                <!ELEMENT qttPersones (#PCDATA)>
+                <!ELEMENT temps (#PCDATA)>
+                    <!ATTLIST temps unitat CDATA #REQUIRED>
+                <!ELEMENT dificultat (#PCDATA)>
+                    <!ATTLIST dificultat tipus (Alta|Media|Baja) #REQUIRED>
+                <!ELEMENT calorias (#PCDATA)>
+            <!ELEMENT pasos (paso*)>           
+                <!ELEMENT paso (descripcion)>
+                <!ATTLIST paso numero CDATA #REQUIRED>
+                <!ELEMENT descripcion (#PCDATA)>
+
+]>
+
+<receptes>
+    <recepta>
+        <nom>Besugo al Horno</nom>
+        <categorias>
+            <categoria>Peix</categoria>
+            <categoria>Forn</categoria>
+        </categorias>
+        <fotos>
+            <foto>Pez Feo</foto>
+        </fotos>
+        <cost moneda="Euro">50</cost>
+        <autor>
+            <nomAutor></nomAutor>
+            <email></email>
+            <fotoAutor></fotoAutor>
+            <linkedin></linkedin>
+            <facebook></facebook>
+        </autor>
+        <ingredients>
+            <ingrediente>
+                <qtt>1</qtt>
+                <nombre>Besugo Grande</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>1</qtt>
+                <nombre>Limon</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>1 cucharada Sopera</qtt>
+                <nombre>Pan rallado</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>2</qtt>
+                <nombre>Dientes de ajo</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>1/2 dl</qtt>
+                <nombre>Vino blanco</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>1 chorro</qtt>
+                <nombre>Aceite</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>1</qtt>
+                <nombre>Perejil</nombre>
+            </ingrediente>
+            <ingrediente>
+                <qtt>1 punyado</qtt>
+                <nombre>Sal</nombre>
+            </ingrediente>
+        </ingredients>
+        <caracteristiques>
+            <qttPersones>4</qttPersones>
+            <temps unitat="minuts">45</temps>
+            <dificultat tipus="Baja"/>
+            <calorias>500</calorias>
+        </caracteristiques>
+        <pasos>
+            <paso numero="1">
+                <descripcion>Limpiar el besugo, sazonar con sal, hacer unos cortes en el lomo y colocar las rodajas de limon</descripcion>                    
+            </paso>
+            <paso numero="2">
+                <descripcion>Ponerlo en fuente de horno</descripcion>                    
+            </paso>
+            <paso numero="3">
+                <descripcion>Pelar y picar los dientes de ajo, triturar el perejil y mezclar el pan rallado</descripcion>                    
+            </paso>
+            <paso numero="4">
+                <descripcion>Cubrir el pescado con esta mezcla, repartir bieny bañar un poco de aceite y el vino blanco</descripcion>                    
+            </paso>
+            <paso numero="5">
+                <descripcion>Meter al horno y cocer de 20 a 25 minutos a 200ºC rociandolo de vez en cuando con el jugo de la coccion. Estara en su punto cuando, al intentar separar la cabeza del cuerpo, esta se desprenda con facilidad</descripcion>                    
+            </paso>
+        </pasos>
+    </recepta>
+</receptes>

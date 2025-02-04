@@ -1,0 +1,676 @@
+<APARCAMIENTOS>
+    <ULTIMA_ACTUALIZACION>
+        <FORMATO>aaaammddHHMM</FORMATO>
+        <FECHA>201704242223</FECHA>
+    </ULTIMA_ACTUALIZACION>
+    <APARCAMIENTO>
+        <CODIGO>0</CODIGO>
+        <NOMBRE>Baluarte</NOMBRE>
+        <NOMBRE_CORTO>Baluarte</NOMBRE_CORTO>
+        <DIRECCION>Plaza Baluarte s/n, Sotano 3 4, Pamplona</DIRECCION>
+        <TELEFONO>948213293</TELEFONO>
+        <LATITUD>42.813316</LATITUD>
+        <LONGITUD>-1.647981</LONGITUD>
+        <GESTORA>Empark Aparcamientos y Servicios</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>900</TOTAL>
+            <LIBRES>312</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,0471</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,0368</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,0368</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,0287</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,0228</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,0228</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,0022</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>10</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>1</CODIGO>
+        <NOMBRE>Blanca de Navarra</NOMBRE>
+        <NOMBRE_CORTO>Blanca de Navarra</NOMBRE_CORTO>
+        <DIRECCION> Plaza Blanca de Navarra s/n, Planta Baja, 31004, Pamplona </DIRECCION>
+        <TELEFONO>948151630</TELEFONO>
+        <LATITUD>42.81186805058923</LATITUD>
+        <LONGITUD>-1.635117530822754</LONGITUD>
+        <GESTORA>Empark Aparcamientos y Servicios</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>277</TOTAL>
+            <LIBRES>192</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,0515</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,0383</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,0383</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,0270</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,0240</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,0240</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,0035</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>10</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>2</CODIGO>
+        <NOMBRE>Carlos III</NOMBRE>
+        <NOMBRE_CORTO>Carlos III</NOMBRE_CORTO>
+        <DIRECCION>Avenida Carlos III s/n, 31003, Pamplona</DIRECCION>
+        <TELEFONO>948241222</TELEFONO>
+        <LATITUD>42.81186805058923</LATITUD>
+        <LONGITUD>-1.639484167098999</LONGITUD>
+        <GESTORA>Gestión y Aparcamientos de Pamplona</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>291</TOTAL>
+            <LIBRES>206</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,0382</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,0346</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,0346</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,0346</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,0239</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,0179</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,0179</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>11,9445</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0,1804</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>3</CODIGO>
+        <NOMBRE>El Corte Inglés</NOMBRE>
+        <NOMBRE_CORTO>C. Inglés</NOMBRE_CORTO>
+        <DIRECCION>C/ ESTELLA 9 SOTANO 1, 31002, Pamplona</DIRECCION>
+        <TELEFONO>948202000</TELEFONO>
+        <LATITUD>42.813977323980595</LATITUD>
+        <LONGITUD>-1.6452884674072266</LONGITUD>
+        <GESTORA>El Corte Inglés</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>1000</DESDE>
+            <HASTA>2200</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>430</TOTAL>
+            <LIBRES>0</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,042</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,042</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,042</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,042</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,042</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,042</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>0</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>4</CODIGO>
+        <NOMBRE>Plaza de Toros</NOMBRE>
+        <NOMBRE_CORTO>Plaza de Toros</NOMBRE_CORTO>
+        <DIRECCION>Calle Amaya s/n, Planta Baja, 31002, Pamplona</DIRECCION>
+        <TELEFONO>948212046</TELEFONO>
+        <LATITUD>42.81583468426657</LATITUD>
+        <LONGITUD>-1.6393446922302246</LONGITUD>
+        <GESTORA>Movilidad y Aparcamientos SL.</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>440</TOTAL>
+            <LIBRES>390</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 600 a 1440 minutos</DESCRIPCION>
+                <IMPORTE>0,017893</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>10,99</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>5</CODIGO>
+        <NOMBRE>Plaza del Castillo</NOMBRE>
+        <NOMBRE_CORTO>Pza Castillo</NOMBRE_CORTO>
+        <DIRECCION>Plaza del Castillo s/n, Sotano, 31001, Pamplona</DIRECCION>
+        <TELEFONO>948211942</TELEFONO>
+        <LATITUD>42.816901067187786</LATITUD>
+        <LONGITUD>-1.6428154706954956</LONGITUD>
+        <GESTORA>Saba</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>452</TOTAL>
+            <LIBRES>0</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,05072</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,03805</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,03805</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,03044</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,02537</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,02537</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,02537</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>15,22142</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>0706</FECHA_DESDE>
+                <FECHA_HASTA>0715</FECHA_HASTA>
+                <PRECIO_MAXIMO>37,69008</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>6</CODIGO>
+        <NOMBRE>Rincón de la Aduana</NOMBRE>
+        <NOMBRE_CORTO>Rin. Aduana</NOMBRE_CORTO>
+        <DIRECCION> Rincón de la Aduana s/n, Planta Baja, 31001, Pamplona </DIRECCION>
+        <TELEFONO>948223671</TELEFONO>
+        <LATITUD>42.816003890164154</LATITUD>
+        <LONGITUD>-1.6477882862091064</LONGITUD>
+        <GESTORA>Parkings de Pamplona U.T.E.</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>118</TOTAL>
+            <LIBRES>82</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,03758</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,03758</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,0372</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,02987</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,02394</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,02394</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,02394</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>15,76944</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0,29861</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>7</CODIGO>
+        <NOMBRE>Autobuses</NOMBRE>
+        <NOMBRE_CORTO>Autobuses</NOMBRE_CORTO>
+        <DIRECCION>Calle Yanguas y Miranda s/n, Planta Baja, Pamplona</DIRECCION>
+        <TELEFONO>948292496</TELEFONO>
+        <LATITUD>42.81180508609865</LATITUD>
+        <LONGITUD>-1.6448163986206055</LONGITUD>
+        <GESTORA>UTE Estación de Autobuses</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>385</TOTAL>
+            <LIBRES>354</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,04194</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,04194</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,03453</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,02832</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,025</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 300 minutos</DESCRIPCION>
+                <IMPORTE>0,025</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 301 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>10,00</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>8</CODIGO>
+        <NOMBRE>Audiencia</NOMBRE>
+        <NOMBRE_CORTO>Audiencia</NOMBRE_CORTO>
+        <DIRECCION>Calle San Roque 4, Planta Baja, 31011, Pamplona</DIRECCION>
+        <TELEFONO>948253429</TELEFONO>
+        <LATITUD>42.817408674738</LATITUD>
+        <LONGITUD>-1.6568756103515625</LONGITUD>
+        <GESTORA>Gestión y Aparcamientos Pamplona</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>244</TOTAL>
+            <LIBRES>237</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,047744</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,037563</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,037563</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,037563</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,033431</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,016778</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1.440 minutos</DESCRIPCION>
+                <IMPORTE>0,016778</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>14,874668</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0,060127</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+    <APARCAMIENTO>
+        <CODIGO>9</CODIGO>
+        <NOMBRE>Hospitales</NOMBRE>
+        <NOMBRE_CORTO>Hospitales</NOMBRE_CORTO>
+        <DIRECCION>Plaza Protomedicato, s/n</DIRECCION>
+        <TELEFONO>948274916</TELEFONO>
+        <LATITUD>42.80594517263736</LATITUD>
+        <LONGITUD>-1.6659602522850037</LONGITUD>
+        <GESTORA>Empark Aparcamiento y servicios, S.A.</GESTORA>
+        <HORARIO>
+            <FORMATO>MMHH</FORMATO>
+            <DESDE>0000</DESDE>
+            <HASTA>2400</HASTA>
+        </HORARIO>
+        <PLAZAS>
+            <TOTAL>1290</TOTAL>
+            <LIBRES>129</LIBRES>
+        </PLAZAS>
+        <TARIFAS>
+            <ANYO>2017</ANYO>
+            <MONEDA>euro</MONEDA>
+            <RANGO>
+                <CODIGO>1</CODIGO>
+                <DESCRIPCION>Menos de 15 minutos</DESCRIPCION>
+                <IMPORTE>0,0474</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>2</CODIGO>
+                <DESCRIPCION>De 16 a 30 minutos</DESCRIPCION>
+                <IMPORTE>0,0339</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>3</CODIGO>
+                <DESCRIPCION>De 31 a 60 minutos</DESCRIPCION>
+                <IMPORTE>0,0339</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>4</CODIGO>
+                <DESCRIPCION>De 61 a 120 minutos</DESCRIPCION>
+                <IMPORTE>0,0264</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>5</CODIGO>
+                <DESCRIPCION>De 121 a 240 minutos</DESCRIPCION>
+                <IMPORTE>0,0158</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>6</CODIGO>
+                <DESCRIPCION>De 241 a 600 minutos</DESCRIPCION>
+                <IMPORTE>0,0158</IMPORTE>
+            </RANGO>
+            <RANGO>
+                <CODIGO>7</CODIGO>
+                <DESCRIPCION>De 601 a 1440 minutos</DESCRIPCION>
+                <IMPORTE>0,0015</IMPORTE>
+            </RANGO>
+            <PRECIO_MAXIMO_DIARIO>10</PRECIO_MAXIMO_DIARIO>
+            <PRECIO_MINIMO_DIARIO>0</PRECIO_MINIMO_DIARIO>
+            <PRECIOS_SF>
+                <FORMATO_FECHA>mmdd</FORMATO_FECHA>
+                <FECHA_DESDE>-</FECHA_DESDE>
+                <FECHA_HASTA>-</FECHA_HASTA>
+                <PRECIO_MAXIMO>-</PRECIO_MAXIMO>
+                <PRECIO_MINIMO>-</PRECIO_MINIMO>
+            </PRECIOS_SF>
+        </TARIFAS>
+    </APARCAMIENTO>
+</APARCAMIENTOS>

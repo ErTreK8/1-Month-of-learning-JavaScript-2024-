@@ -1,0 +1,74 @@
+<!DOCTYPE Equips[
+    <!ELEMENT Equips (equip*)>
+    	<!ELEMENT equip (nom,preus,caracteristiques,opcions)>
+            <!ATTLIST equip tipus CDATA #REQUIRED>
+    		<!ELEMENT nom (#PCDATA)>
+            <!ELEMENT preus (preu*)>
+                <!ELEMENT preu (#PCDATA)>
+                    <!ATTLIST preu moneda CDATA #REQUIRED>
+            <!ELEMENT caracteristiques (processador,ram,targetagrafica,emmagatzematge)>
+                <!ELEMENT processador (#PCDATA)>
+                <!ELEMENT ram (#PCDATA)>
+                <!ELEMENT targetagrafica (#PCDATA)>
+                <!ELEMENT emmagatzematge (#PCDATA)>
+            <!ELEMENT opcions (#PCDATA)>           
+]>
+
+<Equips>
+	<equip tipus="Sobretaula">
+			<nom>Fujitsu ESPRIMO E3721</nom>
+			<preus>
+				<preu moneda="USD">$500</preu>
+				<preu moneda="EUR">384.94€</preu>
+			</preus>
+			<caracteristiques>
+				<processador>i3 550</processador>
+				<ram>4 GB</ram>
+				<targetagrafica>nvidia 5700</targetagrafica>
+				<emmagatzematge>500 GB</emmagatzematge>
+			</caracteristiques>
+			<opcions>Office 2010 preloaded</opcions>
+	</equip>
+	<equip tipus="Portàtil">
+			<nom>Fujitsu LIFEBOOK A530</nom>
+			<preus>
+				<preu moneda="USD">$781</preu>
+				<preu moneda="EUR">601.27€</preu>
+			</preus>
+			<caracteristiques>
+				<processador>i3-370M</processador>
+				<ram>4 GB</ram>
+				<targetagrafica> Intel Graphics Media Accelerator HD</targetagrafica>
+				<emmagatzematge>256 GB SSD</emmagatzematge>
+			</caracteristiques>
+			<opcions>Microsoft Windows 7 Profesional</opcions>
+	</equip>
+	<equip tipus="Sobretaula">
+			<nom>HP TouchSmart LH177EA</nom>
+			<preus>
+				<preu moneda="USD">$500</preu>
+				<preu moneda="EUR">384.94€</preu>
+			</preus>
+			<caracteristiques>
+				<processador>i3-2120 3,30 GHz</processador>
+				<ram>4 GB</ram>
+				<targetagrafica>geforce plus</targetagrafica>
+				<emmagatzematge>320 GB</emmagatzematge>
+			</caracteristiques>
+			<opcions>Webcam</opcions>
+	</equip>
+	<equip tipus="Portàtil">
+			<nom>Acer Aspire AS5750G-2334G75Mnkk</nom>
+			<preus>
+				<preu moneda="USD">$440</preu>
+				<preu moneda="EUR">338.74€</preu>
+			</preus>
+			<caracteristiques>
+				<processador>i3 i3-2330M 2,20 GHz</processador>
+				<ram>6 GB</ram>
+				<targetagrafica>nVIDIA GeForce GT 520M</targetagrafica>
+				<emmagatzematge>750 GB</emmagatzematge>
+			</caracteristiques>
+			<opcions>Sortida HDMI</opcions>
+	</equip>
+</Equips>

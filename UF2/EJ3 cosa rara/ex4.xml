@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ex4.xsd">
+    <llibre>           
+        <titol>Patatim</titol>
+        <publicacio>14 de maig de 2008</publicacio>
+        <autor>
+            <nom>Federicu</nom>  
+            <cognom>Pi</cognom>
+            <cognom>Torrat</cognom>
+        </autor>
+        <premis>
+            <premi>Premi Planeta 2008</premi>
+            <premi>Premi Social 2009</premi>
+        </premis>
+        <argument>
+            La història va de patatim, patatam, patatum... 
+        </argument>
+    </llibre>
+</biblioteca>
+    

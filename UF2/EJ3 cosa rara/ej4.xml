@@ -1,0 +1,22 @@
+
+
+
+<!DOCTYPE persones[
+	<!-- <!ELEMENT comment (from)>
+	<!ELEMENT from (#PCDATA) > -->
+
+    <!ELEMENT persones (persona)>
+    	<!ELEMENT persona (nom)>
+    		<!ELEMENT nom (#PCDATA)>
+            <!ELEMENT cognom (#PCDATA)>
+            <!ELEMENT carrec (#PCDATA)>
+            <!ATTLIST carrec rang CDATA REQUIRED>
+]>
+
+<persones>
+	<persona>
+		<nom>Pere</nom>
+		<cognom>Martí</cognom>
+		<carrec rang=”1”>Director</carrec>
+	</persona>
+</persones>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<!-- <![CDATA[  <!ELEMENT>: Indica la existencia de un etiqueta en el documento XML]]>
+<![CDATA[  <!ATTLIST>: Indica la existencia de atributos]]>
+<![CDATA[   puede aparecer 0 o 1 vez]]>
+<![CDATA[   puede aparecer 1 o N vez]]>
+<![CDATA[   puede aparecer 0 o N vez]]>
+<![CDATA[  A,B El elemento B aparecerá a continuación del elemento A]]> -->
+<!-- <![CDATA[  A|B Aparecerá o el elemento A o el elemento B, pero no ambos]]>  -->
+<!-- 
+<![CDATA[<!ATTLIST nombre_elemento
+		   nombre_atributo tipo_atributo carácter
+		   nombre_atributo tipo_atributo carácter
+		   ….>]]>
+		    -->
+<!-- <![CDATA[tipo_atributo puede ser:
+		 CDATA: el valor es un character data
+		 (en1|en2|..): el valor es uno de los valores enumerados en la lista
+		 ID: el valor es un único id
+		 IDREF: el valor debe estar en un ID 
+		 IDREFS: lista de valores separados con espacio que deben estar en un ID ]]> -->
+		
+<!-- <![CDATA[caracter puede ser:
+		 Un valor textual entre comillas, que representa un valor por defecto para el atributo
+		 #IMPLIED, el atributo es de carácter opcional y no se le asigna ningún valor por defecto
+		 #REQUIRED, el atributo es de carácter obligatorio, pero no se le asigna un valor por defecto
+		 #FIXED, el atributos es de carácter obligatorio y se le asigna un valor por defecto que además es el único valor que puede tener el atributo]]> -->
+
+
+
+
+        
+<!DOCTYPE persones[
+	<!-- <!ELEMENT comment (from)>
+	<!ELEMENT from (#PCDATA) > -->
+
+    <!ELEMENT persones (persona)>
+    	<!ELEMENT persona (nom)>
+    		<!ELEMENT nom (#PCDATA)>
+]>		
+
+<!-- <comment> 
+	<from>Jordi</from>
+</comment>  -->
+
+
+<persones>
+	<persona>
+		<nom>Pere</nom>
+	</persona>
+</persones>
+
+<!--
+	Els comentaris són com en html
+	validator.w3.org
+-->

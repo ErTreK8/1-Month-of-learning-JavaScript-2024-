@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ex5.xsd">
+    <full_name>Pedro</full_name>
+    <child_name>Garcia</child_name>
+    <child_name>Garcia</child_name>
+    <child_name>Garcia</child_name>
+</person>

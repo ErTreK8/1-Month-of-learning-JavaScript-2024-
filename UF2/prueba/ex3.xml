@@ -1,0 +1,29 @@
+<factures>
+    <factura>
+        <id>1</id>
+        <data>09/04/2024</data>
+        <descompte></descompte>
+        <preu moneda="euro"></preu>
+        <!-- <preu>
+            <valor></valor>
+            <moneda></moneda>
+        </preu> 
+        Es lo mismo que lo de arriba-->
+
+        <dadesClients>
+            <dni>11233444A</dni>
+            <nom>Jose Mendoza dos Santos</nom>
+            <adreça>C/ Farigola num.31</adreça>
+            <cp>47041</cp>
+            <poblacio>Cerdanyola</poblacio>
+        </dadesClients>
+        <producte>
+            <article>
+                <qtt>4</qtt>
+                <denominacio>Pizza</denominacio>
+                <preuUni>2.55</preuUni>
+                <iva>21% de 2.55</iva>
+            </article>
+        </producte>
+    </factura>
+</factures>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<menjar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="exercici3.xsd">
+    <dinar>Arròs</dinar>
+    <sopar>Sopa</sopar>
+</menjar>
+    

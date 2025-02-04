@@ -1,0 +1,83 @@
+
+
+<!DOCTYPE >
+<html >
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+  <title>Exercici Taula Previsió Temps. Solució simple caldria separar js i html</title>
+  <script >
+var jsonBarcelona;
+  window.onload = function(){
+     jsonBarcelona = {"coord":{"lon":2.8249,"lat":41.9831},"weather":[{"id":800,"main":"Clear","description":"cielo claro","icon":"01d"}],"base":"stations","main":{"temp":14.01,"feels_like":13.06,"temp_min":12.25,"temp_max":16.58,"pressure":1021,"humidity":61},"visibility":10000,"wind":{"speed":1.54,"deg":0},"clouds":{"all":0},"dt":1709637676,"sys":{"type":2,"id":2018885,"country":"ES","sunrise":1709619424,"sunset":1709660609},"timezone":3600,"id":3121456,"name":"Barcelona","cod":200};
+     jsonZurich = {"coord":{"lon":8.55,"lat":47.3667},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":7.22,"feels_like":5.11,"temp_min":6.12,"temp_max":8.53,"pressure":1016,"humidity":84},"visibility":10000,"wind":{"speed":3.09,"deg":300},"clouds":{"all":75},"dt":1709637375,"sys":{"type":2,"id":2019255,"country":"CH","sunrise":1709618290,"sunset":1709658995},"timezone":3600,"id":2657896,"name":"Zurich","cod":200};
+    //console.log(jsonBarcelona.coord.lon);
+    creaTaula();
+  } 
+
+
+
+    function creaTaula() {
+        var tabla = document.createElement("table");
+
+        //Primera fila de capçalera
+        var fila = tabla.insertRow(0);
+        fila.insertCell(0).innerHTML = "Ciutat";
+        fila.insertCell().innerHTML = "Description";
+            fila.insertCell(2).innerHTML = "Previsió curt";
+            fila.insertCell(3).innerHTML = "Temperatura";
+            fila.insertCell(4).innerHTML = "Temperatura Maxima";
+
+        // Crear filas y columnas. No cal un for ja que només tenim una ciutat.
+        //for (var i = 1; i < 3; i++) {
+          i=1;
+            var fila = tabla.insertRow(i);
+
+            fila.insertCell(0).innerHTML = "Barcelona";
+            fila.insertCell(1).innerHTML = jsonBarcelona.weather[0].description;
+            fila.insertCell(2).innerHTML = jsonBarcelona.weather[0].main;
+            fila.insertCell(3).innerHTML = jsonBarcelona.main.temp;
+            fila.insertCell(4).innerHTML = jsonBarcelona.main.temp_max;
+            if (jsonBarcelona.weather[0].main == "Clouds"){
+              fila.insertCell(5).innerHTML="<img src='img/nubes.png' alt='nubes'>";
+            }
+            else if (jsonBarcelona.weather[0].main == "Clear"){
+              fila.insertCell(5).innerHTML="<img src='img/sol2.png' alt='sol'>";
+            }
+            else
+            fila.insertCell(5).innerHTML="<img src='img/lluviasolnubes.png' alt='lluviasolnubes'>";
+        //}
+
+        i=2;
+            var fila = tabla.insertRow(i);
+
+            fila.insertCell(0).innerHTML = "Zurich";
+            fila.insertCell(1).innerHTML = jsonZurich.weather[0].description;
+            fila.insertCell(2).innerHTML = jsonZurich.weather[0].main;
+            fila.insertCell(3).innerHTML = jsonZurich.main.temp;
+            fila.insertCell(4).innerHTML = jsonZurich.main.temp_max;
+            if (jsonZurich.weather[0].main == "Clouds"){
+              fila.insertCell(5).innerHTML="<img src='img/nubes.png' alt='nubes'>";
+            }
+            else if (jsonZurich.weather[0].main == "Clear"){
+              fila.insertCell(5).innerHTML="<img src='img/sol.png' alt='sol'>";
+            }
+            else
+            fila.insertCell(5).innerHTML="<img src='img/lluviasolnubes.png' alt='lluviasolnubes'>";
+        //}
+
+        // Agregar la tabla al cuerpo del documento
+        document.body.appendChild(tabla);
+
+    }
+
+  
+  </script>
+  </head>
+
+  <body>
+<h1>Exercici Taula Previsió Temps. Solució simple</h1>
+<h3> caldria separar js i html, millorar la taula, posar 2 o 3 dades més, etc</h3>
+    
+    
+  </body>
+</html>

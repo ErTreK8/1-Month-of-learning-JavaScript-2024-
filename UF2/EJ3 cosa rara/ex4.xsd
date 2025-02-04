@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="biblioteca">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="llibre" type="llibres"/>
+        </xs:sequence>
+    </xs:complexType>  
+</xs:element>
+<xs:complexType name="llibres">
+    <xs:sequence>
+        <xs:element name="titol" type="xs:string"/>
+        <xs:element name="publicacio" type="xs:string"/>
+        <xs:element name="autor" type="autores"/>
+        <xs:element name="premis" type="premios"/>
+        <xs:element name="argument" type="xs:string"/>
+    </xs:sequence>
+</xs:complexType>
+<xs:complexType name="autores">
+    <xs:sequence>
+        <xs:element name="nom" type="xs:string"/>
+        <xs:element name="cognom" type="xs:string" maxOccurs="2"/>
+    </xs:sequence>
+</xs:complexType>
+<xs:complexType name="premios">
+    <xs:sequence>
+        <xs:element name="premi" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+</xs:complexType>
+</xs:schema>

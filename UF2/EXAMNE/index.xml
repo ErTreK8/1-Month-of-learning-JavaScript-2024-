@@ -1,0 +1,174 @@
+<!DOCTYPE cines[
+    <!ELEMENT cines (cinema*)>
+        <!ELEMENT cinema (nom,cartelera)>
+            <!ELEMENT nom (#PCDATA)>
+            <!ELEMENT cartelera (pelicules+)>
+                <!ELEMENT pelicules (pelicula+)>
+                    <!ELEMENT pelicula (nomPeli,imatge,(fechaEstreno|estrenada))>
+                    <!ATTLIST pelicula genere CDATA #REQUIRED>
+                    <!ATTLIST pelicula clasificacion CDATA #REQUIRED>
+                    <!ATTLIST pelicula estreno (Si|No) #REQUIRED>
+                    <!ELEMENT nomPeli (#PCDATA)>
+                    <!ELEMENT imatge (#PCDATA)>
+                    <!ELEMENT fechaEstreno (#PCDATA)>
+                    <!ELEMENT estrenada (opinions,emisions)>
+                        <!ELEMENT opinions (opinio*)>
+                            <!ELEMENT opinio (titol?,comentari?,imatgeEstrellas+,NomUsuari+,ImatgeDits+)>  
+                            <!ATTLIST opinio valoracio CDATA #REQUIRED>  
+                                <!ELEMENT titol (#PCDATA)>
+                                <!ELEMENT comentari (#PCDATA)>
+                                <!ELEMENT imatgeEstrellas (#PCDATA)>
+                                <!ELEMENT NomUsuari (#PCDATA)>
+                                <!ELEMENT ImatgeDits (#PCDATA)>
+                        <!ELEMENT emisions (emisio+)>
+                            <!ELEMENT emisio (dia+)>
+                                <!ELEMENT dia (horas)>
+                                <!ATTLIST dia numero CDATA #REQUIRED>   
+                                    <!ELEMENT horas (hora*)>
+                                        <!ELEMENT hora (#PCDATA)> 
+]>
+<cines>
+    <cinema>
+        <nom>Cinepolis</nom>
+        <cartelera>
+            <pelicules>
+                <pelicula genere="Terror" clasificacion="B" estreno="Si">
+                    <nomPeli>En el Bosque</nomPeli>
+                    <imatge>Bruja rara</imatge>
+                    <estrenada>
+                        <opinions>
+                            <opinio valoracio="5">
+                                <titol>3D No!</titol>
+                                <comentari>Se Ve muy mal en 3D</comentari>
+                                <imatgeEstrellas>2.5</imatgeEstrellas>
+                                <NomUsuari>Haren Algquircia</NomUsuari>
+                                <ImatgeDits>Positiu</ImatgeDits>
+                            </opinio>
+                            <opinio valoracio="5">
+                                <imatgeEstrellas>2.5</imatgeEstrellas>
+                                <NomUsuari>Haren Algquircia</NomUsuari>
+                                <ImatgeDits>Positiu</ImatgeDits>
+                            </opinio>
+                        </opinions>
+                        <emisions>
+                            <emisio>
+                                <dia numero="7">
+                                    <horas>
+                                        <hora>17:00</hora>
+                                        <hora>21:00</hora>
+                                    </horas>
+                                </dia>
+                                <dia numero="8">
+                                    <horas>
+                                        <hora>17:00</hora>
+                                    </horas>
+                                </dia>                               
+                            </emisio>
+                        </emisions>
+                    </estrenada>
+                </pelicula>
+                <pelicula genere="Comedia" clasificacion="B" estreno="No">
+                    <nomPeli>A la Mala</nomPeli>
+                    <imatge>Boda</imatge>
+                    <fechaEstreno>??/2/2015</fechaEstreno>
+                </pelicula>
+            </pelicules>
+        </cartelera>
+    </cinema>
+    <cinema>
+        <nom>Cinepolis VIP</nom>
+        <cartelera>
+            <pelicules>
+                <pelicula genere="drama" clasificacion="A" estreno="Si">
+                    <nomPeli>Cincuenta Sombras de Gray</nomPeli>
+                    <imatge>Hombre trajeado</imatge>
+                    <estrenada>
+                        <opinions>
+                            <opinio valoracio="5">
+                                <titol>3D No!</titol>
+                                <comentari>Se Ve muy mal en 3D</comentari>
+                                <imatgeEstrellas>2.5</imatgeEstrellas>
+                                <NomUsuari>Haren Algquircia</NomUsuari>
+                                <ImatgeDits>Positiu</ImatgeDits>
+                            </opinio>
+                            <opinio valoracio="5">
+                                <imatgeEstrellas>2.5</imatgeEstrellas>
+                                <NomUsuari>Haren Algquircia</NomUsuari>
+                                <ImatgeDits>Positiu</ImatgeDits>
+                            </opinio>
+                        </opinions>
+                        <emisions>
+                            <emisio>
+                                <dia numero="7">
+                                    <horas>
+                                        <hora>17:00</hora>
+                                        <hora>21:00</hora>
+                                    </horas>
+                                </dia>
+                                <dia numero="8">
+                                    <horas>
+                                        <hora>17:00</hora>
+                                    </horas>
+                                </dia>                               
+                            </emisio>
+                        </emisions>
+                    </estrenada>
+                </pelicula>
+                <pelicula genere="Drama" clasificacion="A" estreno="No">
+                    <nomPeli>McFarland: Sin Limites</nomPeli>
+                    <imatge>Barco</imatge>
+                    <fechaEstreno>??/2/2015</fechaEstreno>
+                </pelicula>
+            </pelicules>
+        </cartelera>
+    </cinema>
+    <cinema>
+        <nom>Xtreme Cinemas</nom>
+        <cartelera>
+            <pelicules>
+                <pelicula genere="Accion" clasificacion="A" estreno="Si">
+                    <nomPeli>Archivo 253</nomPeli>
+                    <imatge>Habitacion Psiquiatrico</imatge>
+                    <estrenada>
+                        <opinions>
+                            <opinio valoracio="5">
+                                <titol>3D No!</titol>
+                                <comentari>Se Ve muy mal en 3D</comentari>
+                                <imatgeEstrellas>2.5</imatgeEstrellas>
+                                <NomUsuari>Haren Algquircia</NomUsuari>
+                                <ImatgeDits>Positiu</ImatgeDits>
+                            </opinio>
+                            <opinio valoracio="5">
+                                <titol>3D No!</titol>
+                                <comentari>Se Ve muy mal en 3D</comentari>
+                                <imatgeEstrellas>2.5</imatgeEstrellas>
+                                <NomUsuari>Haren Algquircia</NomUsuari>
+                                <ImatgeDits>Positiu</ImatgeDits>
+                            </opinio>
+                        </opinions>
+                        <emisions>
+                            <emisio>
+                                <dia numero="7">
+                                    <horas>
+                                        <hora>17:00</hora>
+                                        <hora>21:00</hora>
+                                    </horas>
+                                </dia>
+                                <dia numero="8">
+                                    <horas>
+                                        <hora>17:00</hora>
+                                    </horas>
+                                </dia>                               
+                            </emisio>
+                        </emisions>
+                    </estrenada>
+                </pelicula>
+                <pelicula genere="Drama" clasificacion="B" estreno="No">
+                    <nomPeli>Falsos Profetas: La histora de Gonzalez</nomPeli>
+                    <imatge>Gonzalez</imatge>
+                    <fechaEstreno>??/2/2015</fechaEstreno>
+                </pelicula>
+            </pelicules>
+        </cartelera>
+    </cinema>
+</cines>

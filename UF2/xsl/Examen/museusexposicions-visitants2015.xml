@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<xml>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Pública</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>Arts Santa M&#xF2;nica. Centre de la Creativitat</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>173680</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Arxius</TipusEquipament>
+        <Equipament>Arxiu Fotogr&#xE0;fic de Barcelona</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>12883</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Arxius</TipusEquipament>
+        <Equipament>Arxiu Hist&#xF2;ric de la Ciutat de Barcelona</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>43643</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Bas&#xED;lica de la Sagrada Fam&#xED;lia</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>3722540</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>CaixaForum</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>775020</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Can Framis. Fundaci&#xF3; Vila Casas</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>14486</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Casa Batll&#xF3;</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>992126</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Casa Museu Gaud&#xED;</Equipament>
+        <Districte>06. Gr&#xE0;cia</Districte>
+        <Visitants>322603</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Castell de Montju&#xEF;c</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>670526</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>Centre de Cultura Contempor&#xE0;nia de Barcelona. CCCB</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>383866</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Ci&#xE8;ncia</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>CosmoCaixa</Equipament>
+        <Districte>05. Sarri&#xE0;-Sant Gervasi</Districte>
+        <Visitants>733778</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>El Born Centre de Cultura i Mem&#xF2;ria</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>1486228</Visitants>
+        <Nota>Durant l&#xBF;any 2015 s&#xBF;ha estat fent una enquesta al p&#xFA;blic del Born CC
+            que ha perm&#xE8;s establir que al voltant d&#xBF;un 8 % de les persones que entren al
+            Born CC no fan un &#xFA;s patrimonial del centre. Per coher&#xE8;ncia amb el resultat de
+            l&#xBF;enquesta, les dades oficials de visitants del Born del 2015 s&#xBF;han baixat en
+            un 8 %.</Nota>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Espais patrimonials del MUHBA</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>379434</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>Espais VolART i VolART2. Fundaci&#xF3; Vila Casas</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>3367</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>Fabra i Coats - Centre d'Art Contemporani</Equipament>
+        <Districte>09. Sant Andreu</Districte>
+        <Visitants>9223</Visitants>
+        <Nota>El recinte de Fabra i Coats &#xBF; Centre d&#xBF;Art Contemporani ha estat tancat per
+            reformes de l&#xBF;1/11/2015 al 7/5/2016.</Nota>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Fundaci&#xF3; Antoni T&#xE0;pies</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>70174</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Fundaci&#xF3; Foto Colectania</Equipament>
+        <Districte>05. Sarri&#xE0;-Sant Gervasi</Districte>
+        <Visitants>8931</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Fundaci&#xF3; Fran Daurel</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>212358</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Fundaci&#xF3; Joan Mir&#xF3;</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>451559</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Fundaci&#xF3; Su&#xF1;ol</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>9842</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Hash Marihuana C&#xE1;&#xF1;amo &amp; Hemp Museum</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>12558</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Ci&#xE8;ncia</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>L'Aqu&#xE0;rium</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>1549480</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>La Capella</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>57443</Visitants>
+        <Nota>La Capella ha estat tancada per obres del 2/11/2015 al 4/2/2016.</Nota>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>La Pedrera</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>990112</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>La Virreina Centre de la Imatge</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>155358</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Pública</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu d'Arqueologia de Catalunya</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>35351</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu d'Art Contemporani de Barcelona. MACBA</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>321366</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu d'Hist&#xF2;ria de Barcelona. MUHBA</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>916517</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Pública</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu d'Hist&#xF2;ria de Catalunya</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>147207</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Ci&#xE8;ncia</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu d'Idees i Invents de Barcelona. MIBA</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>45890</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu de Cera</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>189320</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Ci&#xE8;ncia</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu de Ci&#xE8;ncies Naturals de Barcelona</Equipament>
+        <Districte>10. Sant Mart&#xED;</Districte>
+        <Visitants>180236</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu de l'Er&#xF2;tica</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>69643</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu de la Moto</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>10141</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu de la M&#xFA;sica</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>66092</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu de la Xocolata</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>138335</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu del Disseny de Barcelona</Equipament>
+        <Districte>09. Sant Andreu</Districte>
+        <Visitants>216792</Visitants>
+        <Nota>El Museu del Disseny ha estat d'acc&#xE9;s gratu&#xEF;t des de la seva
+            inauguraci&#xF3; el 14/12/2014 fins al 31/1/2015.</Nota>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu del Futbol Club Barcelona</Equipament>
+        <Districte>04. Les Corts</Districte>
+        <Visitants>1785903</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu del Modernisme Catal&#xE0;</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>21805</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu dels Aut&#xF2;mats del Tibidabo</Equipament>
+        <Districte>05. Sarri&#xE0;-Sant Gervasi</Districte>
+        <Visitants>140221</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Egipci de Barcelona</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>253931</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Etnol&#xF2;gic i de Cultures del M&#xF3;n</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>101739</Visitants>
+        <Nota>Amb la inauguraci&#xF3; del renovat Museu Etnol&#xF2;gic l'octubre de 2015, s'inicia
+            el funcionament conjunt dels dos centres: el Museu Etnol&#xF2;gic i el Museu de Cultures
+            del M&#xF3;n. L'acc&#xE9;s al museu ha estat lliure fins al 6/1/2016.</Nota>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Europeu d'Art Modern. MEAM</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>83610</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Frederic Mar&#xE8;s</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>38707</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Ci&#xE8;ncia</Ambit>
+        <Titularitat>Privada</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Geol&#xF2;gic del Seminari de Barcelona</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>4967</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Mar&#xED;tim de Barcelona. MMB</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>219115</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Nacional d'Art de Catalunya. MNAC</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>717211</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Ol&#xED;mpic i de l'Esport Joan Antoni Samaranch</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>57504</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Museu Picasso</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>1008125</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Pública</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Palau G&#xFC;ell</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>261167</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Arts visuals</Ambit>
+        <Titularitat>Pública</Titularitat>
+        <TipusEquipament>Centres d'exposicions</TipusEquipament>
+        <Equipament>Palau Robert</Equipament>
+        <Districte>02. Eixample</Districte>
+        <Visitants>715000</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Park G&#xFC;ell</Equipament>
+        <Districte>06. Gr&#xE0;cia</Districte>
+        <Visitants>2761436</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Pavell&#xF3; Mies van der Rohe</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>86488</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Poble Espanyol</Equipament>
+        <Districte>03. Sants-Montju&#xEF;c</Districte>
+        <Visitants>916235</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Consorci</Titularitat>
+        <TipusEquipament>Espais d'inter&#xE8;s arquitect&#xF2;nic</TipusEquipament>
+        <Equipament>Recinte Modernista de Sant Pau</Equipament>
+        <Districte>07. Horta-Guinard&#xF3;</Districte>
+        <Visitants>235207</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Hist&#xF2;ria i mem&#xF2;ria</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Reial Monestir de Santa Maria de Pedralbes</Equipament>
+        <Districte>04. Les Corts</Districte>
+        <Visitants>76355</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+    <museusexposicions-visitants>
+        <Any>2015</Any>
+        <Ambit>Ci&#xE8;ncia</Ambit>
+        <Titularitat>Municipal</Titularitat>
+        <TipusEquipament>Museus i col&#xB7;leccions</TipusEquipament>
+        <Equipament>Zoo de Barcelona</Equipament>
+        <Districte>01. Ciutat Vella</Districte>
+        <Visitants>1004069</Visitants>
+        <Nota/>
+    </museusexposicions-visitants>
+</xml>
